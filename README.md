@@ -80,6 +80,13 @@ MongoDB is a popular NoSQL database known for its flexibility and scalability. M
   - **["Node.js and MongoDB Tutorial Series by The Net Ninja"](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)**
   - **["Mongoose.js Tutorial Series by The Net Ninja"](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)**
 
+## Plugins and Tools
 
+   ### Express Middleware
+        - **["body-parser"](https://www.npmjs.com/package/body-parser)**: Parse incoming request bodies.
+        - **["cors"](https://www.npmjs.com/package/cors)**: Enable Cross-Origin Resource Sharing (CORS).
+        - **["helmet"](https://www.npmjs.com/package/helmet)**: Secure your Express apps with various HTTP headers.
 
-
+   ### Mongoose Plugins
+        - **["mongoose-paginate-v2"](https://www.npmjs.com/package/mongoose-paginate-v2)**: Paginate MongoDB queries.
+        - **["mongoose-unique-validator"](https://www.npmjs.com/package/mongoose-unique-validator)**: Validate unique fields in Mongoose schemas.
