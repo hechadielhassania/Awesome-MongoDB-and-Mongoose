@@ -1,5 +1,6 @@
 # MongoDB and Mongoose with Node.js and ExpressJS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hechadielhassania/Awesome-Express.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Welcome to the MongoDB and Mongoose with Node.js and ExpressJS starter kit! This repository provides a comprehensive guide and resources to help you get started with building web applications using MongoDB, Mongoose, Node.js, and ExpressJS.
 
