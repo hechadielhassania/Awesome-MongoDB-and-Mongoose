@@ -87,13 +87,16 @@ MongoDB is a popular NoSQL database known for its flexibility and scalability. M
 ## Plugins and Tools
 
    ### Express Middleware
-        - **["body-parser"](https://www.npmjs.com/package/body-parser)**: Parse incoming request bodies.
-        - **["cors"](https://www.npmjs.com/package/cors)**: Enable Cross-Origin Resource Sharing (CORS).
-        - **["helmet"](https://www.npmjs.com/package/helmet)**: Secure your Express apps with various HTTP headers.
+   
+  - **["body-parser"](https://www.npmjs.com/package/body-parser)**: Parse incoming request bodies.
+  - **["cors"](https://www.npmjs.com/package/cors)**: Enable Cross-Origin Resource Sharing (CORS).
+  - **["helmet"](https://www.npmjs.com/package/helmet)**: Secure your Express apps with various HTTP headers.
 
    ### Mongoose Plugins
-        - **["mongoose-paginate-v2"](https://www.npmjs.com/package/mongoose-paginate-v2)**: Paginate MongoDB queries.
-        - **["mongoose-unique-validator"](https://www.npmjs.com/package/mongoose-unique-validator)**: Validate unique fields in Mongoose schemas.
+   
+   - **["mongoose-paginate-v2"](https://www.npmjs.com/package/mongoose-paginate-v2)**: Paginate MongoDB queries.
+   - **["mongoose-unique-validator"](https://www.npmjs.com/package/mongoose-unique-validator)**: Validate unique fields in Mongoose schemas.
+
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or additional resources to add, please open an issue or create a pull request.
