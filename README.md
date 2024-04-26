@@ -91,3 +91,16 @@ MongoDB is a popular NoSQL database known for its flexibility and scalability. M
    ### Mongoose Plugins
         - **["mongoose-paginate-v2"](https://www.npmjs.com/package/mongoose-paginate-v2)**: Paginate MongoDB queries.
         - **["mongoose-unique-validator"](https://www.npmjs.com/package/mongoose-unique-validator)**: Validate unique fields in Mongoose schemas.
+
+## Contributing
+Contributions are welcome! If you have any suggestions, improvements, or additional resources to add, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+To the extent possible under law, [El Hassania Hechadi](https://hechadielhassania.github.io) has waived all copyright and related or neighboring rights to this work.
+
+
