@@ -12,8 +12,8 @@ Welcome to the MongoDB and Mongoose with Node.js and ExpressJS starter kit! This
 3. [Tutorials and Learning Resources](#tutorials-and-learning-resources)
 4. [Books](#books)
 5. [Articles and Guides](#articles-and-guides)
-6. [Plugins and Tools](#plugins-and-tools)
-7. [Videos](#videos)
+6. [Videos](#videos)
+7. [[Plugins and Tools](#plugins-and-tools)
 8. [Contributing](#contributing)
 9. [License](#license)
 
