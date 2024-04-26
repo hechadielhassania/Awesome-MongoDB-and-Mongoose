@@ -63,4 +63,23 @@ MongoDB is a popular NoSQL database known for its flexibility and scalability. M
     });
 
 ## Tutorials and Learning Resources
-  - **MongoDB University**: : Official MongoDB training and certification. [official website](https://learn.mongodb.com/).
+  - **[MongoDB University](https://learn.mongodb.com/)**: Official MongoDB training and certification.
+  - **[Mongoose Documentation](https://mongoosejs.com/docs/)**:  Official documentation for Mongoose.
+  - **[Express.js Documentation](https://expressjs.com/)**:  Official documentation for Express.js.
+  - **[Node.js Documentation](https://nodejs.org/docs/latest/api/)**: Official documentation for Node.js.
+
+## Books
+  - **["MongoDB: The Definitive Guide"](https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1491954469)**: by Kristina Chodorow and Shannon Bradshaw.
+  - **["Mastering MongoDB 4.x"](https://www.amazon.com/Mastering-MongoDB-4-x-high-fault-tolerant/dp/1789617871)**: by Alex Giamas.
+
+## Articles and Guides
+  - **["Getting Started with MongoDB"](https://www.mongodb.com/docs/)**: Official MongoDB getting started guide.
+  - **["Building RESTful APIs with Node.js, Express, and MongoDB"](https://www.mongodb.com/resources/languages/express-mongodb-rest-api-tutorial)**
+
+## Videos
+  - **["Node.js and MongoDB Tutorial Series by The Net Ninja"](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)**
+  - **["Mongoose.js Tutorial Series by The Net Ninja"](https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)**
+
+
+
+
